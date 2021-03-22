@@ -11,17 +11,18 @@ export default function Header() {
             <nav>
                 <div className="header-left">
                     <div className="header-btns" id={showBtns ? "hidden" : ""}>
-                        <div className="logo">LOGO</div>
+
                         <div className="btn">home</div>
                         <div className="btn">about</div>
                         <div className="btn">contact us</div>
                     </div>
-                    <button onClick={()=>setShowBtns(!showBtns)} className="hamburger">
+                    <button onClick={() => setShowBtns(!showBtns)} className="hamburger">
                         {" "}
                         <ReorderIcon /></button>
                 </div>
 
                 <div className="header-right">
+                    <div className="logo">LOGO</div>
                     <input type="text" />
                     <button>Search</button>
                 </div>
