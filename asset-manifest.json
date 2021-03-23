@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/pixel-perfect/static/css/main.088ccbb5.chunk.css",
-    "main.js": "/pixel-perfect/static/js/main.7b93a0e6.chunk.js",
-    "main.js.map": "/pixel-perfect/static/js/main.7b93a0e6.chunk.js.map",
-    "runtime-main.js": "/pixel-perfect/static/js/runtime-main.771d05af.js",
-    "runtime-main.js.map": "/pixel-perfect/static/js/runtime-main.771d05af.js.map",
-    "static/js/2.e01c7ac5.chunk.js": "/pixel-perfect/static/js/2.e01c7ac5.chunk.js",
-    "static/js/2.e01c7ac5.chunk.js.map": "/pixel-perfect/static/js/2.e01c7ac5.chunk.js.map",
-    "static/js/3.fda53048.chunk.js": "/pixel-perfect/static/js/3.fda53048.chunk.js",
-    "static/js/3.fda53048.chunk.js.map": "/pixel-perfect/static/js/3.fda53048.chunk.js.map",
+    "main.css": "/pixel-perfect/static/css/main.d4d1163a.chunk.css",
+    "main.js": "/pixel-perfect/static/js/main.d28de26d.chunk.js",
+    "main.js.map": "/pixel-perfect/static/js/main.d28de26d.chunk.js.map",
+    "runtime-main.js": "/pixel-perfect/static/js/runtime-main.aaa96f14.js",
+    "runtime-main.js.map": "/pixel-perfect/static/js/runtime-main.aaa96f14.js.map",
+    "static/js/2.3a94bfd5.chunk.js": "/pixel-perfect/static/js/2.3a94bfd5.chunk.js",
+    "static/js/2.3a94bfd5.chunk.js.map": "/pixel-perfect/static/js/2.3a94bfd5.chunk.js.map",
+    "static/js/3.0709744c.chunk.js": "/pixel-perfect/static/js/3.0709744c.chunk.js",
+    "static/js/3.0709744c.chunk.js.map": "/pixel-perfect/static/js/3.0709744c.chunk.js.map",
     "index.html": "/pixel-perfect/index.html",
-    "static/css/main.088ccbb5.chunk.css.map": "/pixel-perfect/static/css/main.088ccbb5.chunk.css.map",
-    "static/js/2.e01c7ac5.chunk.js.LICENSE.txt": "/pixel-perfect/static/js/2.e01c7ac5.chunk.js.LICENSE.txt"
+    "static/css/main.d4d1163a.chunk.css.map": "/pixel-perfect/static/css/main.d4d1163a.chunk.css.map",
+    "static/js/2.3a94bfd5.chunk.js.LICENSE.txt": "/pixel-perfect/static/js/2.3a94bfd5.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/pixel-perfect/static/media/hero-bg-desktop.b1340563.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.771d05af.js",
-    "static/js/2.e01c7ac5.chunk.js",
-    "static/css/main.088ccbb5.chunk.css",
-    "static/js/main.7b93a0e6.chunk.js"
+    "static/js/runtime-main.aaa96f14.js",
+    "static/js/2.3a94bfd5.chunk.js",
+    "static/css/main.d4d1163a.chunk.css",
+    "static/js/main.d28de26d.chunk.js"
   ]
 }
