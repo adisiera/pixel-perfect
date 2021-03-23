@@ -1,0 +1,21 @@
+.book-btn {
+    /* Style for "Rectangle" */
+    width: 245px;
+    height: 64px;
+    border: 1px solid #ffffff;
+    background-color: transparent;
+    span {
+        /* Style for "BOOK A TAB" */
+        width: 119px;
+        height: 16px;
+        color: #ffffff;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+        font-style: normal;
+        letter-spacing: 2px;
+        line-height: 16px;
+        text-align: left;
+        text-transform: uppercase;
+    }
+}

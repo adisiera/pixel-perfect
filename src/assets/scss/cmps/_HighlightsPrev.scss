@@ -1,0 +1,25 @@
+.highlight-preview{
+    color: white;
+    // justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid grey;
+    justify-content: flex-start;
+    @media(max-width: 475px){
+        flex-direction: column;
+    }
+    img{
+        height: 100px;
+        object-fit: contain;
+    }
+    .prev-text{
+        h3{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 18px;  
+        } 
+        p{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 15px;  
+        } 
+    }
+}

@@ -1,0 +1,18 @@
+ //BASICS
+@import './basics/helpers';
+@import './basics/base';
+@import './basics/buttons';
+
+//COMPONENTS
+@import './cmps/Book';
+@import './cmps/Food';
+@import './cmps/Footer';
+@import './cmps/Hero';
+@import './cmps/HighlightsList';
+@import './cmps/HighlightsPrev';
+@import './cmps/Place';
+@import './cmps/Reserve';
+
+
+//PAGES
+@import './pages/Home';
